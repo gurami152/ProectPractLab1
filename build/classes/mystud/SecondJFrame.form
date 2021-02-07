@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="380" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="278" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Monospaced" size="12" style="1"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#x426;&#x435; &#x43c;&#x43e;&#x44f; &#x430;&#x432;&#x442;&#x43e;&#x431;&#x438;&#x43e;&#x433;&#x440;&#x430;&#x444;&#x438;&#x44f;. &#x422;&#x443;&#x442; &#x44f; &#x440;&#x43e;&#x437;&#x43f;&#x43e;&#x432;&#x456;&#x43c; &#x43f;&#x440;&#x43e; &#x441;&#x432;&#x43e;&#x454; &#x436;&#x438;&#x442;&#x442;&#x44f;. &#xa;&#x41c;&#x435;&#x43d;&#x435; &#x437;&#x432;&#x443;&#x442;&#x44c; &#x414;&#x440;&#x435;&#x431;&#x435;&#x437;&#x43e;&#x432; &#x414;&#x435;&#x43d;&#x438;&#x441; &#x41e;&#x43b;&#x435;&#x433;&#x43e;&#x432;&#x438;&#x447;.&#xa; Lorem ipsum dolor sit amet, consectetur adipiscing elit. &#xa;Donec in arcu id ligula mollis sollicitudin blandit et nunc. &#xa;Cras fringilla dui eu tortor porta laoreet. Suspendisse semper a ligula ut porttitor. &#xa;Curabitur nec commodo nisl. Proin finibus quis risus a aliquet. Quisque facilisis lacinia euismod. Donec luctus libero mi. &#xa;Quisque est dolor, placerat eget vehicula eget, tincidunt ac velit. Maecenas pellentesque eget nulla in volutpat. &#xa;Duis ligula diam, euismod non purus quis, fermentum pretium tellus.&#xa;&#xa;Cras eu ante a risus venenatis dapibus. Suspendisse ultrices vulputate vehicula.&#xa; Praesent pretium sagittis pretium. Phasellus rhoncus, nisi in dignissim ultrices, ante ante rhoncus arcu,&#xa; vel fermentum risus erat in neque. Proin nec magna consequat, dignissim libero a, scelerisque sem.&#xa;Sed eget odio mi. Donec eu ipsum sit amet ipsum ultricies scelerisque quis et massa. &#xa;Cras pulvinar consequat ipsum quis convallis. &#xa;Nam vitae leo lectus. Praesent gravida euismod ex sagittis pharetra.&#xa; Donec finibus urna in ultricies lacinia. &#xa;Phasellus tristique, arcu eget commodo rhoncus, diam eros fringilla quam, in tempor neque libero mattis arcu.&#xa; Nunc non iaculis enim. "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
